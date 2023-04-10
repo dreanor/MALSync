@@ -688,5 +688,10 @@
     "domain": "https://isekaiscan.com",
     "type": "manga",
     "name": "Isekaiscan"
+  },
+  {
+    "domain": "http://127.0.0.1:4567/",
+    "type": "manga",
+    "name": "Tachidesk"
   }
 ]

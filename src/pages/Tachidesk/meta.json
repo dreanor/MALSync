@@ -1,0 +1,6 @@
+{
+  "search": "http://127.0.0.1:4567/library?query={searchtermPlus}",
+  "urls": {
+    "match": ["*://127.0.0.1/*", "*://127.0.0.1/*"]
+  }
+}
